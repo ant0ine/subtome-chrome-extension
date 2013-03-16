@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "SubToMe",
   "description": "The universal subscribe button",
-  "version": "1.0",
+  "version": "1.1",
   "background": {
     "scripts": [
       "background.js"
